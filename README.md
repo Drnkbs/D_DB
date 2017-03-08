@@ -1,3 +1,3 @@
 # D_DB
 
-firts
+This repository contains PCB CAD course homework of Duran KUBAÞ
